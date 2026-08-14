@@ -5,12 +5,12 @@ import (
 	"errors"
 
 	aw "github.com/deanishe/awgo"
-	"github.com/dineshgowda24/alfred-gcp-workflow/gcloud"
-	"github.com/dineshgowda24/alfred-gcp-workflow/parser"
-	"github.com/dineshgowda24/alfred-gcp-workflow/searchers"
-	"github.com/dineshgowda24/alfred-gcp-workflow/services"
-	"github.com/dineshgowda24/alfred-gcp-workflow/workflow/arg"
-	"github.com/dineshgowda24/alfred-gcp-workflow/workflow/log"
+	"github.com/nheath/alfred-gcp-workflow/gcloud"
+	"github.com/nheath/alfred-gcp-workflow/parser"
+	"github.com/nheath/alfred-gcp-workflow/searchers"
+	"github.com/nheath/alfred-gcp-workflow/services"
+	"github.com/nheath/alfred-gcp-workflow/workflow/arg"
+	"github.com/nheath/alfred-gcp-workflow/workflow/log"
 )
 
 var ErrNoActiveConfig = errors.New("no active gcloud config found")

@@ -1,4 +1,4 @@
-module github.com/dineshgowda24/alfred-gcp-workflow
+module github.com/nheath/alfred-gcp-workflow
 
 go 1.22.4
 

@@ -3,7 +3,7 @@ package iam
 import (
 	"strings"
 
-	"github.com/dineshgowda24/alfred-gcp-workflow/gcloud"
+	"github.com/nheath/alfred-gcp-workflow/gcloud"
 )
 
 type Role struct {

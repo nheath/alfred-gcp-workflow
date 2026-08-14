@@ -4,11 +4,11 @@ import (
 	"strings"
 
 	aw "github.com/deanishe/awgo"
-	"github.com/dineshgowda24/alfred-gcp-workflow/services"
+	"github.com/nheath/alfred-gcp-workflow/services"
 )
 
 const (
-	contributingURL = "https://github.com/dineshgowda24/alfred-gcp-workflow/blob/main/CONTRIBUTING.md"
+	contributingURL = "https://github.com/nheath/alfred-gcp-workflow/blob/main/CONTRIBUTING.md"
 )
 
 func buildAutocomplete(ctx *Context, service *services.Service) string {

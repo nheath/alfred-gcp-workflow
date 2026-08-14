@@ -7,8 +7,8 @@ import (
 	"text/template"
 
 	aw "github.com/deanishe/awgo"
-	"github.com/dineshgowda24/alfred-gcp-workflow/gcloud"
-	"github.com/dineshgowda24/alfred-gcp-workflow/workflow/log"
+	"github.com/nheath/alfred-gcp-workflow/gcloud"
+	"github.com/nheath/alfred-gcp-workflow/workflow/log"
 	"gopkg.in/yaml.v2"
 )
 

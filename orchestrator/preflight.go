@@ -4,8 +4,8 @@ import (
 	"errors"
 
 	aw "github.com/deanishe/awgo"
-	"github.com/dineshgowda24/alfred-gcp-workflow/parser"
-	"github.com/dineshgowda24/alfred-gcp-workflow/workflow/config"
+	"github.com/nheath/alfred-gcp-workflow/parser"
+	"github.com/nheath/alfred-gcp-workflow/workflow/config"
 )
 
 var ErrPreflightCheckFailed = errors.New("preflight check failed")

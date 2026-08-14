@@ -3,7 +3,7 @@ package monitoring
 import (
 	"strings"
 
-	"github.com/dineshgowda24/alfred-gcp-workflow/gcloud"
+	"github.com/nheath/alfred-gcp-workflow/gcloud"
 )
 
 type Dashboard struct {

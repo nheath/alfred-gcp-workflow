@@ -3,8 +3,8 @@ package orchestrator
 import (
 	"fmt"
 
-	"github.com/dineshgowda24/alfred-gcp-workflow/services"
-	"github.com/dineshgowda24/alfred-gcp-workflow/workflow/log"
+	"github.com/nheath/alfred-gcp-workflow/services"
+	"github.com/nheath/alfred-gcp-workflow/workflow/log"
 )
 
 var _ Handler = (*ServiceHandler)(nil)

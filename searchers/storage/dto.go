@@ -3,8 +3,8 @@ package storage
 import (
 	"time"
 
-	"github.com/dineshgowda24/alfred-gcp-workflow/gcloud"
-	"github.com/dineshgowda24/alfred-gcp-workflow/util"
+	"github.com/nheath/alfred-gcp-workflow/gcloud"
+	"github.com/nheath/alfred-gcp-workflow/util"
 )
 
 type Bucket struct {

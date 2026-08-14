@@ -4,8 +4,8 @@ import (
 	"fmt"
 
 	aw "github.com/deanishe/awgo"
-	"github.com/dineshgowda24/alfred-gcp-workflow/searchers"
-	"github.com/dineshgowda24/alfred-gcp-workflow/workflow/log"
+	"github.com/nheath/alfred-gcp-workflow/searchers"
+	"github.com/nheath/alfred-gcp-workflow/workflow/log"
 )
 
 var _ Handler = (*SubServiceHandler)(nil)

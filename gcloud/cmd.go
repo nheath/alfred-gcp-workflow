@@ -7,8 +7,8 @@ import (
 	"os/exec"
 	"strings"
 
-	"github.com/dineshgowda24/alfred-gcp-workflow/workflow/config"
-	"github.com/dineshgowda24/alfred-gcp-workflow/workflow/log"
+	"github.com/nheath/alfred-gcp-workflow/workflow/config"
+	"github.com/nheath/alfred-gcp-workflow/workflow/log"
 )
 
 func runGCloudCmd[T any](cfg *Config, cmd string, extraArgs ...string) (T, error) {

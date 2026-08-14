@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/dineshgowda24/alfred-gcp-workflow/gcloud"
+	"github.com/nheath/alfred-gcp-workflow/gcloud"
 )
 
 type RedisInstance struct {

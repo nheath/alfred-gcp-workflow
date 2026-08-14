@@ -5,8 +5,8 @@ import (
 	"strings"
 	"time"
 
-	gc "github.com/dineshgowda24/alfred-gcp-workflow/gcloud"
-	"github.com/dineshgowda24/alfred-gcp-workflow/util"
+	gc "github.com/nheath/alfred-gcp-workflow/gcloud"
+	"github.com/nheath/alfred-gcp-workflow/util"
 )
 
 type Network struct {

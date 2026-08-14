@@ -8,10 +8,10 @@ import (
 	"time"
 
 	aw "github.com/deanishe/awgo"
-	gc "github.com/dineshgowda24/alfred-gcp-workflow/gcloud"
-	"github.com/dineshgowda24/alfred-gcp-workflow/parser"
-	"github.com/dineshgowda24/alfred-gcp-workflow/workflow/env"
-	"github.com/dineshgowda24/alfred-gcp-workflow/workflow/log"
+	gc "github.com/nheath/alfred-gcp-workflow/gcloud"
+	"github.com/nheath/alfred-gcp-workflow/parser"
+	"github.com/nheath/alfred-gcp-workflow/workflow/env"
+	"github.com/nheath/alfred-gcp-workflow/workflow/log"
 )
 
 const (

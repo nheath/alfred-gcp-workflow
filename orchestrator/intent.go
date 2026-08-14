@@ -5,8 +5,8 @@ import (
 	"strings"
 
 	aw "github.com/deanishe/awgo"
-	"github.com/dineshgowda24/alfred-gcp-workflow/gcloud"
-	"github.com/dineshgowda24/alfred-gcp-workflow/workflow/config"
+	"github.com/nheath/alfred-gcp-workflow/gcloud"
+	"github.com/nheath/alfred-gcp-workflow/workflow/config"
 )
 
 type IntentHandler struct{}

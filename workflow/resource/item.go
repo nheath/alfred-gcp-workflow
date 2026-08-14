@@ -2,7 +2,7 @@ package resource
 
 import (
 	aw "github.com/deanishe/awgo"
-	"github.com/dineshgowda24/alfred-gcp-workflow/gcloud"
+	"github.com/nheath/alfred-gcp-workflow/gcloud"
 )
 
 type Displayable interface {

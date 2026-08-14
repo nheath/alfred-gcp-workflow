@@ -2,10 +2,10 @@ package cloudrun
 
 import (
 	aw "github.com/deanishe/awgo"
-	gc "github.com/dineshgowda24/alfred-gcp-workflow/gcloud"
-	"github.com/dineshgowda24/alfred-gcp-workflow/parser"
-	"github.com/dineshgowda24/alfred-gcp-workflow/services"
-	"github.com/dineshgowda24/alfred-gcp-workflow/workflow/resource"
+	gc "github.com/nheath/alfred-gcp-workflow/gcloud"
+	"github.com/nheath/alfred-gcp-workflow/parser"
+	"github.com/nheath/alfred-gcp-workflow/services"
+	"github.com/nheath/alfred-gcp-workflow/workflow/resource"
 )
 
 type FunctionSearcher struct{}

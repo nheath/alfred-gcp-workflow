@@ -8,7 +8,7 @@ import (
 
 	"gopkg.in/ini.v1"
 
-	"github.com/dineshgowda24/alfred-gcp-workflow/workflow/config"
+	"github.com/nheath/alfred-gcp-workflow/workflow/config"
 )
 
 var (
